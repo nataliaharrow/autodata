@@ -1,4 +1,4 @@
-{
+[
     "alfa-romero": {
         "symbolizing": "1",
         "normalized-losses": "?",
@@ -615,4 +615,4 @@
         "highway-mpg": "25",
         "price": "22625"
     }
-}
+]
